@@ -1,0 +1,20 @@
+div{
+    font-size: 25px;
+    background-color: red;
+}
+
+.other{
+    background-color: green;
+}
+
+#mytext{
+    background-color: blue;
+}
+
+a{
+    background-color: aqua;
+}
+
+a:visited{
+    color:chocolate;
+}
